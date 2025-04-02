@@ -1,0 +1,25 @@
+{
+  "name": "express-101-ingeniebrios",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pKOlJAgR)\r # Taller en Parejas: Creación de un Endpoint con Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSAW-2025-I/express-101-ingeniebrios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSAW-2025-I/express-101-ingeniebrios/issues"
+  },
+  "homepage": "https://github.com/DSAW-2025-I/express-101-ingeniebrios#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
