@@ -1,25 +1,24 @@
 {
-  "name": "express-101-ingeniebrios",
+  "name": "parcial-ii-felipeabella",
   "version": "1.0.0",
-  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pKOlJAgR)\r # Taller en Parejas: Creación de un Endpoint con Express.js",
-  "main": "server.js",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CBIH3_Lj)\r # Web Development Exam - Backend with Express.js",
+  "main": "products.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server"
+    "start": "node products"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DSAW-2025-I/express-101-ingeniebrios.git"
+    "url": "git+https://github.com/DSAW-2025-I/parcial-ii-FelipeAbella.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DSAW-2025-I/express-101-ingeniebrios/issues"
+    "url": "https://github.com/DSAW-2025-I/parcial-ii-FelipeAbella/issues"
   },
-  "homepage": "https://github.com/DSAW-2025-I/express-101-ingeniebrios#readme",
+  "homepage": "https://github.com/DSAW-2025-I/parcial-ii-FelipeAbella#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.2"
+    "express": "^5.1.0"
   }
 }
